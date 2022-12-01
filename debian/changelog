@@ -1,0 +1,15 @@
+ros-humble-simple-term-menu-vendor (1.5.3-1bullseye) bullseye; urgency=high
+
+  * Renamed package to simple_term_menu_vendor
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Thu, 01 Dec 2022 05:00:00 -0000
+
+ros-humble-simple-term-menu-vendor (1.5.2-1bullseye) bullseye; urgency=high
+
+  * Initial ROS package
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 28 Nov 2022 05:00:00 -0000
+
+
