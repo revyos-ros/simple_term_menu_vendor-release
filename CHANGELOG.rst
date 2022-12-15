@@ -2,6 +2,12 @@
 Changelog for package simple_term_menu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.5.6 (2022-12-15)
+------------------
+* Removed unused files
+  Added testing dependencies
+* Contributors: Roni Kreinin
+
 1.5.5 (2022-12-09)
 ------------------
 * Added ament_cmake_python buildtool_depend
